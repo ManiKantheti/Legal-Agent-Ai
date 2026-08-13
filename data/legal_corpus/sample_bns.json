@@ -1,0 +1,20 @@
+[
+  {
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "103(1)",
+    "old_equivalent": "IPC Section 302 (Murder)",
+    "title": "Punishment for murder",
+    "text": "PASTE THE OFFICIAL BARE ACT TEXT HERE — do not rely on this placeholder.",
+    "amendment_note": "BNS 2023 came into force 1 July 2024, replacing the IPC 1860. Offences committed before this date are tried under IPC/CrPC; offences on or after are tried under BNS/BNSS.",
+    "related_case_law": ["PASTE VERIFIED CITATIONS HERE"]
+  },
+  {
+    "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "section": "35",
+    "old_equivalent": "CrPC Section 41A (Notice of appearance before arrest)",
+    "title": "Procedure for arrest",
+    "text": "PASTE THE OFFICIAL BARE ACT TEXT HERE — do not rely on this placeholder.",
+    "amendment_note": "BNSS replaces CrPC 1973 w.e.f. 1 July 2024, with added safeguards.",
+    "related_case_law": ["Arnesh Kumar v. State of Bihar (2014) — verify continued applicability under BNSS"]
+  }
+]
